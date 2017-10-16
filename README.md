@@ -17,7 +17,7 @@ Getting started:
 ----------------
 
 To run with input small data:
-First, started hadoop ecosystem.
+First, start hadoop ecosystem.
 Then run:
 
 ```Java
