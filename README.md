@@ -1,6 +1,5 @@
-Movie-Recommender-System
-
-=========
+Movie-Recommender-System:
+--------------
 
 Simple movie recommendatnion system implementation with Java based in Hadoop ecosystem
 
